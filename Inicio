@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+	  <style>
+        h10 {
+            margin-bottom: 500px; /* Espacio debajo del título */
+        }
+
+        h2 {
+            margin-bottom: 150px; /* Espacio debajo del párrafo */
+        }
+    </style>
+	<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh; /* Para asegurar que el footer esté al fondo */
+        }
+
+        main {
+            flex: 1; /* El contenido principal ocupa el espacio restante */
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        footer a {
+            color: #f2f2f2;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+	 <style>
+        body {
+            font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; /* Cambiar el tipo de letra a Roboto */
+        }
+    </style>
+	<style>
+        body {
+            background-color: #d6d6d6; /* Fondo negro */
+            color: black; /* Color del texto en blanco para que sea legible */
+        }
+    </style> 
+<meta charset="utf-8">
+<title>evento</title>
+</head>
+	<center><img src="C:\Users\Ale05\Downloads\cd9 NEGRO.png" alt= "CD9" width="100" height="auto">  </center>
+
+	
+<body>
+<center><h2>INICIO&nbsp; &nbsp; &nbsp; FECHAS&nbsp; &nbsp; &nbsp;BOLETOS&nbsp; &nbsp; &nbsp; ARTISTA&nbsp; &nbsp; &nbsp; REDES SOCIALES</h2>
+</center>
+	<center>
+	  <h10>Luego de 6 años de ausencia, la boyband mexicana CD9 regresó a los escenarios&nbsp;</h10>
+	  <h10><br>
+      </h10>
+	  <h10>este 2024. La Arena CDMX fue el recinto que Jos, Alonso,&nbsp;</h10>
+	  <h10><br>
+      </h10>
+	  <h10>Freddy, Bryan y Alan eligieron para arrancar su "The Last Party Tour".</h10>
+	  <h10>&nbsp;</h10>
+    </center>
+	
+	<center><img src="C:\Users\Ale05\Downloads\cds.png" alt= "imagen" width="1100" height="auto">  </center>
+	<footer>
+		
+      <p>&copy; 2024 CD9. Todos los derechos reservados.</p>
+      <p>Contacto: <a href="mailto:CD9@tour.mx">CD9@tour.mx</a></p>
+	  <img src="C:\Users\Ale05\Downloads\cd9 blanco.png" width="100">
+    </footer>
+</body>
+</html>
